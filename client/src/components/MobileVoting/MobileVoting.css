@@ -1,0 +1,26 @@
+.mobile-btn-vote {
+    text-align: center;
+    width: 100%;
+    margin: 0px 0px;
+    height: 10vh;
+    font-size: 1.5rem;
+    background-color: #D3FFF3;
+    color: #1F2041;
+    border: none;
+    -webkit-box-shadow: inset 0px 0px 3px black;
+	-moz-box-shadow: inset 0px 0px 3px black;
+	box-shadow: inset 0px 0px 3px black;
+}
+
+.mobile-btn-vote-active {
+	background-color: #9649CB;
+	color: #D3FFF3;
+	-webkit-box-shadow: inset 0px 0px 15px black;
+	-moz-box-shadow: inset 0px 0px 15px black;
+	box-shadow: inset 0px 0px 15px black;
+}
+
+.mobile-voting-h3-margin{
+	margin-top: 8px !important;
+	margin-bottom: 8px !important;
+}

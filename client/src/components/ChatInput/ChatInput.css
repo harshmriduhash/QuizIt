@@ -1,0 +1,16 @@
+.chatInput {
+    height: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    padding: 5%;
+    background-color: #EEEEEE;
+}
+
+.inputBoxStyle{
+	height: 25%;
+}
+
+.chatButtonStyle{
+	height: 20%;
+}

@@ -1,0 +1,11 @@
+.chatButton{
+	margin: 0px;
+	margin-top: 2.5%;
+	height: 25%;
+	line-height: 25%;
+	padding: 0px;
+	padding-left: 5%;
+	padding-right: 5%;
+	font-size: 90%;
+	/*background-color: blue;*/
+}

@@ -1,0 +1,47 @@
+body, html {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Roboto', serif;
+	color: #1F2041;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+/* To vertically align since Bootstrap 4 and React aren't playing nice otherwise, so Google solutions aren't working */
+.mainContainer {
+	margin-top: 10%;
+	margin-bottom: 15%;
+}
+
+.login-form {
+	width: 20%;
+}
+
+.question-text {
+	font-size: 26px;
+	margin-bottom: 20px;
+}
+
+.question-tracker {
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.tracker {
+	margin-top: 20px;
+}
+
+.timer {
+	margin-top: 20px;
+	font-size: 30px;
+}
+
+.no-margin {
+	margin: 0px !important;
+}
+
+.no-padding {
+	padding: 0px !important;
+}

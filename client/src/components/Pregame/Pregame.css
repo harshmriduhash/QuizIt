@@ -1,0 +1,15 @@
+.pregame-logo{
+	width: 100%;
+	margin: auto;
+}
+
+.pregame-container{
+	width: 100%;
+	height: 100%;
+	padding: 10%;
+}
+
+.empty-pregame-div{
+	width: 100%;
+	height: 76px;
+}

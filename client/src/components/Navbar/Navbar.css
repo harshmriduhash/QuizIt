@@ -1,0 +1,19 @@
+nav{
+    display:table;
+    width:100%;
+}
+
+#customNavbar{
+    height:50px;
+    position: fixed;
+    top: 0px;
+    background-image: url('gray_sand.png');
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.nav-link {
+    background-color: transparent !important;
+}

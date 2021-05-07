@@ -1,0 +1,44 @@
+.timer {
+	text-align: center;
+	font-size: 30px;
+}
+
+.timerBox {
+	background-color: white;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: lightgray;
+	border-width: 1px;
+}
+.dancing-eddy {
+	width: 72px;
+	height: auto;
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
+.timerNumber {
+	color: red;
+	font-weight: 600;
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
+
+@-webkit-keyframes fadeIn {
+	0% {opacity: 0;}
+	100% {opacity: 1;}
+}
+
+@keyframes fadeIn {
+	0% {opacity: 0;}
+	100% {opacity: 1;}
+}
+
+.fadeIn {
+	-webkit-animation-name: fadeIn;
+	animation-name: fadeIn;
+	animation: fadeIn 1s infinite;
+}

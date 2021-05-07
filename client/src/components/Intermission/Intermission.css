@@ -1,0 +1,22 @@
+.correct {
+  background-color:green;
+  border-width: 4px;
+  border-color: gold;
+  color: white;
+}
+
+.correctAnswer {
+  background-color: green;
+  color: white;
+}
+
+.incorrect {
+  background-color: red;
+  border-width: 4px;
+  border-color: gold;
+	color: white;
+}
+
+.centered {
+	text-align: center;
+}

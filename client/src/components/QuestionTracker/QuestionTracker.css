@@ -1,0 +1,31 @@
+.align-right{
+	text-align: right;
+}
+
+.align-left{
+	text-align: left;
+}
+
+.align-center{
+	text-align: center;
+}
+
+.questionTracker {
+	margin-top: 2vh;
+	margin-bottom: 2vh;
+	padding: 0px;
+	padding-left: .5vh;
+	padding-right: .5vh;
+	line-height: 10vh;
+	font-size: 2.3vh;
+	font-weight: 500;
+	background-color: white;
+	border-radius: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: lightgray;
+}
+
+.no-margins{
+	margin:0px;
+}

@@ -1,0 +1,88 @@
+.centered{
+	text-align: center;
+}
+
+.mobile-question-text{
+	padding: 2%;
+	margin: 0px;
+	font-size: 5vw;
+	font-weight: 500;
+}
+
+.mobile-currentAnswer{
+	background-color: #9649CB;
+	color: #D3FFF3;
+	-webkit-box-shadow: inset 0px 0px 15px black;
+	-moz-box-shadow: inset 0px 0px 15px black;
+	box-shadow: inset 0px 0px 15px black;
+}
+
+.mobile-correct {
+	background-color: green;
+	color: #D3FFF3;
+	-webkit-box-shadow: inset 0px 0px 15px black;
+	-moz-box-shadow: inset 0px 0px 15px black;
+	box-shadow: inset 0px 0px 15px black;
+}
+
+.mobile-correctAnswer {
+	background-color: green;
+	color: #D3FFF3;
+	-webkit-box-shadow: inset 0px 0px 15px black;
+	-moz-box-shadow: inset 0px 0px 15px black;
+	box-shadow: inset 0px 0px 15px black;
+}
+
+.mobile-incorrect {
+	background-color: red;
+	color: #D3FFF3;
+	-webkit-box-shadow: inset 0px 0px 15px black;
+	-moz-box-shadow: inset 0px 0px 15px black;
+	box-shadow: inset 0px 0px 15px black;
+}
+
+.centered {
+	text-align: center;
+}
+
+.mobile-answer-box{
+	height:10vh;
+	line-height: 5vw;
+	font-size: 4.5vw;
+	border-radius: 0px !important;
+}
+
+.mobile-question-title {
+}
+
+.list-group-mobile {
+	margin: 0px;
+}
+
+.mobile-box-details{
+	margin: 0px;
+	padding-left: 5px;
+	padding-right: 5px;
+	display: block;
+	font-weight: 500;
+	text-align: center;
+}
+
+.clear-float {
+	clear:both;
+}
+.mobile-box-difficulty{
+	float: right;
+}
+
+.mobile-box-category{
+	float: left;
+}
+
+.mobileHeight{
+	height: 100%;
+}
+
+.mobile-question-active-h4{
+	margin: 10px 0px 0px 0px !important;
+}

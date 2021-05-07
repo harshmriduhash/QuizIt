@@ -1,0 +1,45 @@
+.mobile-chat-container {
+    height: 80vh;
+    padding: 5%;
+    /*filter: drop-shadow(-1px 0 2px #222222);*/
+}
+
+.mobile-chat-messages-div{
+    height: 70%;
+    background-color: white;
+    padding: 10px;
+    border: 1px grey solid;
+    /*overflow-wrap: normal;*/
+    overflow-wrap: break-word;
+    overflow-y: auto;
+
+}
+
+.mobile-chat-input-div{
+    height: 120px;
+    padding: 10px;
+    width: 100%;
+    background-color: white;
+    /*position: fixed;*/
+    /*bottom: 0px;*/
+}
+
+.mobile-chat-textarea{
+    height: 70px;
+}
+
+.mobile-chat-button{
+    height: 30px;
+    margin-top: 5px;
+    float: right;
+    color: white;
+    background-color: #9649CB;
+    width: 100%;
+    border: none;
+    border-radius: .25rem;
+}
+
+.mobile-ref-div{
+    width: 100%;
+    height: 1px;
+}

@@ -1,0 +1,21 @@
+.chatMessageArea {
+    height: 100%;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    word-wrap: normal;
+    overflow-y: scroll;
+}
+
+.chatList{
+	padding-left: 5px;
+}
+
+.listItem {
+    list-style-type: none;
+}
+
+::-webkit-scrollbar {
+    display: none; 
+ }

@@ -1,0 +1,19 @@
+.mobile-timerBox {
+	margin: 0px;
+	/*height: 100%;*/
+	/*display: grid;*/
+}
+
+.mobile-timer {
+	font-size: 8vh;
+	margin:auto;
+}
+
+.mobile-timer-bottom {
+	font-size: 5vw;
+	margin:auto;
+}
+
+.red-text{
+	color:red;
+}

@@ -1,0 +1,29 @@
+.chatContainer {
+    height: 100%;
+    filter: drop-shadow(-1px 0 2px #222222);
+}
+
+.chatTitle {
+    background-color: #EEEEEE;
+    height: 5%;
+    padding-top: 3%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    border-top-left-radius: 20px;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.chatMessageAreaHeight{
+    height: 75%;
+    background-color: white;
+    
+}
+
+.chatInputHeight{
+    height: 20%;
+    background-color: white;
+}

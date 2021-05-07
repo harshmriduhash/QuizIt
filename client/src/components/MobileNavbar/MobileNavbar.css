@@ -1,0 +1,17 @@
+.mobile-Navbar{
+	height: 60px;
+	position: fixed;
+	top: 0px;
+	background-color: #1F2041;
+	color: white;
+	z-index: 2;
+}
+
+.mobile-logo{
+	height: 60px;
+	width: auto;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	display: block;
+	margin: 0 auto;
+}
